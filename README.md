@@ -1,2 +1,1 @@
-# spotify_podcasts
-A website which is used to listening podcasts, post new podcasts
+Backend application for spotify_podcasts
